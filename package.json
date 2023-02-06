@@ -1,0 +1,16 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "Belajar NPM",
+  "main": "helloWorld.js",
+  "scripts": {
+    "start": "node helloWorld.js",
+    "fol": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhamad Rizki Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
